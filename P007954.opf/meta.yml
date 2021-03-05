@@ -1,20 +1,22 @@
-id: opecha:P007954
+id: P007954
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W30481
   title: བྱེ་རི་བྱུར་རྫོང་།
-  volume:
+  author: ''
+  volumes:
     5a7a136f783c4f13a06352dae838c351:
       image_group_id: I1KG16924
       title: Volume 1 of bye ri byur rdzong
       volume_number: 1
       total_pages: 392
+      base_file: v001.txt
     3ce477651dfe4965b48109a0fb50e6ec:
       image_group_id: I1KG16925
       title: Volume 2 of bye ri byur rdzong
       volume_number: 2
       total_pages: 424
-  author: ''
+      base_file: v002.txt
 ebook_metadata:
   title: བྱེ་རི་བྱུར་རྫོང་།
   author: ''
